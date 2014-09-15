@@ -4,4 +4,6 @@ Exercises are assigned in R and were created by Prof. Frederic Theunissen (http:
 
 My goal is to eventually provide solutions in both R and Python, to act as a reference for both myself and others taking the course in the future.
 
+Each exercise, regardless of language, is housed in an IPython Notebook (http://ipython.org/notebook.html). To view rendered versions of each notebook, please see the associated page on nbviewer (http://nbviewer.ipython.org/github/danlurie/psych_205/tree/master/).
+
 All code is provided under an MIT License (http://opensource.org/licenses/MIT), so feel free to use it however you want.
